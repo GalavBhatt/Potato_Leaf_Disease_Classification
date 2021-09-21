@@ -5,3 +5,6 @@ The main aim of the project is build a model which can classify the disease asso
 I have trained Convolution Neural Network in order to perform the task of image classification.
 The flowchart of the project is given below:-
 ![potato_leaf_steps_image](https://user-images.githubusercontent.com/60823367/134221160-3da87b66-e176-4996-a4d3-b796b9faf17e.png)
+Hereby i have followed the above given flowchart throughout the project.
+After the successful completion of model training i moved towards model testing and actual prediction operation.
+I would like to attach my final output below:
