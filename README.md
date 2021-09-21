@@ -13,4 +13,4 @@ After the successful completion of model training i moved towards model testing 
 I would like to attach my final output below:
 ![Final_result](https://user-images.githubusercontent.com/60823367/134222273-c32d6cc6-2045-40be-8489-022a315efc11.png)
 
-Further i have attached the Project Report, Presentation and code file respectively in the repository.
+I finally acheived the accuracy score of 95.31 on test dataset.Further, i have attached the Project Report, Presentation and code file respectively in the repository.
